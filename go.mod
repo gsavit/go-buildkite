@@ -1,4 +1,4 @@
-module github.com/buildkite/go-buildkite/v3
+module github.com/gsavit/go-buildkite
 
 go 1.16
 
